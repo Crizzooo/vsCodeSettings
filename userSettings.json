@@ -1,0 +1,62 @@
+{
+    "editor.fontFamily": "monaco",
+    // "editor.fontSize": 18,
+    // "editor.letterSpacing": 0.3,
+    // "editor.lineHeight": 28,
+    "colorHelper.pickerForm": "largePalette",
+    "workbench.colorCustomizations": {
+      "editor.lineHighlightBackground": "#112",
+      "editor.lineHighlightBorder": "#112",
+      "editor.hoverHighlightBackground": "#223",
+      // "editor.wordHighlightStrongBackground": "#000",
+      // "editorGroupHeader.tabsBackground": "#282a36",
+      "editor.selectionBackground": "#223",
+      "editor.selectionHighlightBackground": "#112",
+      "activityBarBadge.background": "#131414",
+      "activityBarBadge.foreground": "#97e1f1",
+      "editorGroup.border": "#000",
+      "editor.background": "#131414",
+      // "editor.foreground": "#111017",
+      // "panel.background": "#000",
+      "activityBar.background": "#000",
+      "activityBar.foreground": "#756B76",
+      // "editorGroup.background": ""
+      // "editorLineNumber.foreground": "",
+      // "editorCursor.foreground": "",
+      // "statusBar.background": "",
+      "input.background": "#131414",
+      "titleBar.activeBackground": "#000",
+      // "titleBar.activeForeground": "",
+      "sideBar.background": "#000000",
+      // "sideBar.foreground": "#000",
+      // "foreground": "pink"
+      // "editorGroup.background": "#000",
+      // "editorGroup.dropBackground": "#000"
+      // "editorWidget.background": "blue",
+      // "panel.background": "#000",
+      // "focusBorder": "pink"
+      "editorGroupHeader.tabsBackground": "#0C0B12",
+      "tab.activeBackground": "#1C1C28",
+      // "tab.activeForeground": "#000",
+      "tab.inactiveBackground": "#111"
+    },
+    "editor.renderLineHighlight": "line",
+    "window.zoomLevel": -1,
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "sync.gist": "a7ce09336bcf867d2fb842f924c89e1c",
+    "sync.lastUpload": "",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "2017-12-04T05:30:25.056Z",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Soft Syntax Theme"
+    // "editor.selectionHighlight": false
+  }
+  
